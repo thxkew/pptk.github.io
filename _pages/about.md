@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Peerawat Pannattee, a Ph.D. student at Tokyo Metropolitan University, where I focus on leveraging deep learning to assess user experience (UX) in virtual reality (VR) environments. Born and raised in Thailand, I pursued my academic journey at King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, where I earned both my B.E. degree in Electronics and Telecommunication (2019) and M.E. degree in Electrical Engineering (2022).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my Master's research, I delved into fingerspelling recognition from video data, which posed significant challenges due to variations in factors like background, frame rate, camera distance, signing speed, and signer differences. This research, which aimed to process continuous videos using deep learning, allowed me to develop a method that achieved state-of-the-art results in the field. This success sparked my passion for exploring the application of artificial intelligence (AI) in human behavior analysis, leading me to investigate the intersection of AI, VR, and psychology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research involves using deep learning techniques to study how user interactions and movements in VR environments can be analyzed to assess UX elements such as cybersickness, sense of presence, and emotional states. The controlled and immersive nature of VR provides an ideal platform for studying human behavior and cognition, which has motivated me to explore how AI can enhance UX in VR applications, making them more effective tools for research and practical use.
+
+As I continue my Ph.D. studies, I am excited to push the boundaries of AI and VR, with a vision to develop smarter and more intuitive systems for human-computer interaction in virtual spaces
