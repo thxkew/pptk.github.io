@@ -1,16 +1,16 @@
 ---
 layout: default
-permalink: /blog/
+permalink: 
 title: blog
 nav: false
 nav_order: 1
 pagination:
-  enabled: true
+  enabled: flase
   collection: posts
   permalink: /page/:num/
   per_page: 5
   sort_field: date
-  sort_reverse: true
+  sort_reverse: flase
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
